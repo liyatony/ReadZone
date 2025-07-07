@@ -11,5 +11,5 @@ A simple **frontend-only** website that displays book details using **HTML** and
 
 ## 🔗 Live Demo
 
-Check out the live website here: [ReadZone](https://your-deployment-link.com) 
+Check out the live website here: [ReadZone](https://liyatony.github.io/ReadZone/) 
 
