@@ -11,10 +11,5 @@ A simple **frontend-only** website that displays book details using **HTML** and
 
 ## 🔗 Live Demo
 
-Check out the live website here: [Book Showcase Website](https://your-deployment-link.com)
+Check out the live website here: [ReadZone](https://your-deployment-link.com)
 
-> Replace the link above with your actual deployed URL (e.g., from GitHub Pages, Netlify, or Vercel).
-
-## 💻 How to Use
-
-Open any `.html` file in a web browser to view the book details.
